@@ -3,4 +3,9 @@
 
 // console.log(ad);
 
-let maaş
+let maaş = 7000;
+let zam = 0.1;
+
+let zamlıMaaş = maaş + maaş * zam;
+
+console.log(zamlıMaaş);
